@@ -3,7 +3,7 @@
 <br><br>
 ❝ Olá!
 
-Atualmente estou cursando Sistema de Informação na <b>São Paulo Tech School</b>
+Atualmente estou cursando Sistemas de Informação na <b>São Paulo Tech School</b>
 
 → <b>Linguagens que estou aprendendo:</b>
 <br><br>
