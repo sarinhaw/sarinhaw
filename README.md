@@ -1,7 +1,7 @@
 <!-- <img src="https://i.pinimg.com/564x/ca/33/d4/ca33d47511dc32fc8c23882ba6aa4fa1.jpg"> -->
 🎧🪐🖱
 <br><br>
-❝ Olá, Eu sou a Sarah Oliveira,
+❝ Olá!
 
 Atualmente estou cursando Sistema de Informação na <b>São Paulo Tech School</b>
 
