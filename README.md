@@ -3,7 +3,7 @@
 <br><br>
 ❝ Olá!
 
-Atualmente estou cursando Sistemas de Informação na [São Paulo Tech School] (https://www.sptech.school.com/)
+Atualmente estou cursando Sistemas de Informação na [São Paulo Tech School](https://www.sptech.school/)
 
 → <b>Linguagens que estou aprendendo:</b>
 <br><br>
