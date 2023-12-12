@@ -1,15 +1,7 @@
+<br></br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5DEB3&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Sarah+Oliveira;I'm+19+years+old;I'm+from+Brazil;I'm+currently+working+on+Bachelor's+degree+in+Information+Systems;In+São+Paulo+Tech+School;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFDEAD&height=120&section=header"/>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFDEAD&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Sarah+Oliveira;I'm+19+years+old;I'm+from+Brazil;I'm+currently+working+on+Bachelor's+degree+in+Information+Systems;In+São+Paulo+Tech+School;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="38%" height="200px" src="https://github-readme-stats.vercel.app/api?username=sarinhaw&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=moltack" /> 
-  <img width="41%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinhaw&layout=compact&hide_border=true&theme=moltack" />
-</div>
-
-
+<br></br>
 ### Learning:
 ![Kotlin](https://img.shields.io/badge/kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=purple&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
@@ -32,9 +24,14 @@
 ![RStudio](https://img.shields.io/badge/RStudio-0D1117?style=for-the-badge&logo=RStudio&logoColor=white)&nbsp;
 ![Microsoft](https://img.shields.io/badge/Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 
-### Entre em Contato!
-<div align="center"> 
+### Contacts
 <a href = "mailto:cmp.1a.sarah.oliveira@sptech.school"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/Sarah Oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+
+<br></br>
+### Jornada
+<div align="center">  
+  <img width="38%" height="200px" src="https://github-readme-stats.vercel.app/api?username=sarinhaw&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=moltack" /> 
+  <img width="41%" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinhaw&layout=compact&hide_border=true&theme=moltack" />
+</div>
 
