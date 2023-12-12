@@ -1,28 +1,36 @@
-<!-- <img src="https://i.pinimg.com/564x/ca/33/d4/ca33d47511dc32fc8c23882ba6aa4fa1.jpg"> -->
-🎧🪐🖱
-<br><br>
-❝ Olá!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFDEAD&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Sarah+Oliveira;I'm+19+years+old;I'm+from+Brazil;I'm+currently+working+on+Bachelor's+degree+in+Information+Systems;In+São+Paulo+Tech+School;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Atualmente estou cursando Sistemas de Informação na [São Paulo Tech School](https://www.sptech.school/)
- 
-→ <b>In learning and use:</b>
-<br><br>
-<a href = ""> <img src = "https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"> </a>
-<img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"> 
-<a href = ""> <img src = "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"> </a>
-<img src="https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145"> <img src="https://camo.githubusercontent.com/a4a4a017a5d519d7c4ce2a3cd3d2194fb7af4b1ca424850784565007c2acc7d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"> 
-<a href = ""> <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> </a>
-<a href = ""> <img src = "https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"> </a>
-<a href = ""> <img src = "https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"> </a>
-<a href = ""> <img src = "https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"> </a>
-<a href = ""> <img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> </a>
-<a href = ""> <img src = "https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"> </a>
-<a href = ""> <img src = "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> </a>
-<a href = ""> <img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"> </a>
-<a href = ""> <img src = "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> </a>
+<div align="center">  
+  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api?username=sarinhaw&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=moltack" /> 
+  <img width="41%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinhaw&layout=compact&hide_border=true&theme=moltack" />
+</div>
 
 
-<!---
-sarinhaw/sarinhaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Learning:
+![Kotlin](https://img.shields.io/badge/kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=purple&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Noje.JS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
+![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![R](https://img.shields.io/badge/r-0D1117?style=for-the-badge&logo=r&logoColor=blue)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=blue)&nbsp;
+![Shel Script](https://img.shields.io/badge/Shell_Script-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+
+### In Using:
+
+![Canva](https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=Canva&logoColor=ciano)&nbsp;
+![VSCode](https://img.shields.io/badge/Visual-0D1117?style=for-the-badge&logo=visual-studio&logoColor=blue)&nbsp;
+![Chart.JS](https://img.shields.io/badge/chart.js-0D1117?style=for-the-badge&logo=chart.js&logoColor=pink)&nbsp;
+![Trello](https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=Trello&logoColor=blue)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Slack](https://img.shields.io/badge/Slack-0D1117?style=for-the-badge&logo=slack&logoColor=purple)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=pink)&nbsp;
+![RStudio](https://img.shields.io/badge/RStudio-0D1117?style=for-the-badge&logo=RStudio&logoColor=white)&nbsp;
+![Microsoft](https://img.shields.io/badge/Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
+
+### Entre em Contato!
+<div align="center"> 
+<a href = "mailto:cmp.1a.sarah.oliveira@sptech.school"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/sarah-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
