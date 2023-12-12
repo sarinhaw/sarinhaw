@@ -1,8 +1,12 @@
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFDEAD&height=120&section=header"/>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFDEAD&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Sarah+Oliveira;I'm+19+years+old;I'm+from+Brazil;I'm+currently+working+on+Bachelor's+degree+in+Information+Systems;In+São+Paulo+Tech+School;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api?username=sarinhaw&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=moltack" /> 
-  <img width="41%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinhaw&layout=compact&hide_border=true&theme=moltack" />
+  <img width="38%" height="200px" src="https://github-readme-stats.vercel.app/api?username=sarinhaw&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=moltack" /> 
+  <img width="41%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinhaw&layout=compact&hide_border=true&theme=moltack" />
 </div>
 
 
