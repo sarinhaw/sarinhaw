@@ -29,7 +29,7 @@
 <a href="https://www.linkedin.com/in/Sarah Oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 
 <br></br>
-### Jornada
+### Minha Jornada
 <div align="center">  
   <img width="38%" height="200px" src="https://github-readme-stats.vercel.app/api?username=sarinhaw&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=moltack" /> 
   <img width="41%" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinhaw&layout=compact&hide_border=true&theme=moltack" />
