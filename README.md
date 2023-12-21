@@ -2,7 +2,7 @@
 
 
 <br></br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5DEB3&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Sarah+Oliveira;I'm+19+years+old;I'm+from+Brazil;I'm+currently+working+on+Bachelor's+degree+in+Information+Systems;In+São+Paulo+Tech+School;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5DEB3&size=25&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br></br>
 ### Learning:
