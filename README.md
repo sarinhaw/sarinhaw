@@ -1,13 +1,14 @@
-<h2>Olá! Eu sou a Sarah</h2>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5DEB3&size=25&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%2)](https://git.io/typing-svg)
+<h2>Olá, Eu sou a Sarah!</h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFE4B5&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <h2>Sobre Mim</h2>
-<p> 👩‍💻 Atualmente estou cursando bacharelado em Sistemas da Informação na São Paulo Tech School</p>
-<p> 🤝 Participo do desenvolvimento de projetos acadêmicos com foco em Metodologia Ágil.</p>
-<p> 🤳 Tenho grande interesse na área de UX|UI e Front-End, entusiasta por interfaces intuitivas e esteticamente agradáveis.</p>
-<p> 🎓 Futura profissional comprometida com a inovação e a melhoria contínua.</p>
-<p> 🎨 Amante de design e escrita</p>
-<p> 💼 Demonstrando uma inclinação natural para a área de negócios, sou fascinada pela integração entre tecnologia e estratégias empresariais.</p>
+<p> ▹👩‍💻 Atualmente estou cursando bacharelado em Sistemas da Informação na São Paulo Tech School</p>
+<p> ▹🤝 Participo do desenvolvimento de projetos acadêmicos com foco em Metodologia Ágil.</p>
+<p> ▹🤳 Tenho grande interesse na área de UX|UI e Front-End, entusiasta por interfaces intuitivas e esteticamente agradáveis.</p>
+<p> ▹🎓 Futura profissional comprometida com a inovação e a melhoria contínua.</p>
+<p> ▹🎨 Amante de design e escrita</p>
+<p> ▹💼 Demonstrando uma inclinação natural para a área de negócios, sou fascinada pela integração entre tecnologia e estratégias empresariais.</p>
 
 <br></br>
 ### Learning:
