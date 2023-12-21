@@ -1,8 +1,13 @@
-<h2> Sobre Mim</h2>
+<h2>Olá! Eu sou a Sarah</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5DEB3&size=25&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%2)](https://git.io/typing-svg)
 
-
-<br></br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5DEB3&size=25&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
+<h2>Sobre Mim</h2>
+<p> 👩‍💻 Atualmente estou cursando bacharelado em Sistemas da Informação na São Paulo Tech School</p>
+<p> 🤝 Participo do desenvolvimento de projetos acadêmicos com foco em Metodologia Ágil.</p>
+<p> 🤳 Tenho grande interesse na área de UX|UI e Front-End, entusiasta por interfaces intuitivas e esteticamente agradáveis.</p>
+<p> 🎓 Futura profissional comprometida com a inovação e a melhoria contínua.</p>
+<p> 🎨 Amante de design e escrita</p>
+<p> 💼 Demonstrando uma inclinação natural para a área de negócios, sou fascinada pela integração entre tecnologia e estratégias empresariais.</p>
 
 <br></br>
 ### Learning:
@@ -27,7 +32,7 @@
 ![RStudio](https://img.shields.io/badge/RStudio-0D1117?style=for-the-badge&logo=RStudio&logoColor=white)&nbsp;
 ![Microsoft](https://img.shields.io/badge/Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 
-### Contacts
+### Me Encontre em:
 <a href = "mailto:cmp.1a.sarah.oliveira@sptech.school"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/sarah-oliveira-1b557a268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 
