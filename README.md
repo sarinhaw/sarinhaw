@@ -1,6 +1,6 @@
 <h2>Olá, Eu sou a Sarah!</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFE4B5&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFE4B5&size=35&center=true&vCenter=true&width=1000&lines=Bem+Vindo(a)!+Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <h2>Sobre Mim</h2>
 <p> ▹👩‍💻 Atualmente estou cursando bacharelado em Sistemas da Informação na São Paulo Tech School</p>
